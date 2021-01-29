@@ -1,3 +1,6 @@
+> **:truck: moved to https://github.com/NordicSemiconductor/object-to-env-js**  
+> :information_source: [more info](https://github.com/bifravst/bifravst/issues/56)
+
 # objectToEnv [![npm version](https://img.shields.io/npm/v/@bifravst/object-to-env.svg)](https://www.npmjs.com/package/@bifravst/object-to-env)
 
 [![GitHub Actions](https://github.com/bifravst/object-to-env/workflows/Test%20and%20Release/badge.svg)](https://github.com/bifravst/object-to-env/actions)
